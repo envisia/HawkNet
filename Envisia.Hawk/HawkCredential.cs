@@ -46,6 +46,5 @@ namespace Envisia.Hawk
         /// User roles
         /// </summary>
         public string[] Roles { get; set; }
-#endif
     }
 }
